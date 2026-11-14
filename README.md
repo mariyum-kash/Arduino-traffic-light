@@ -17,3 +17,8 @@ This circuit follows a simple sequence: the red LED turns on for 5s. It then sta
 - USB Cable
 - Breadboard
 - Jumper Wires
+
+## Physical Circuit Demonstration
+
+https://github.com/user-attachments/assets/70cbf161-c0ff-42cc-9754-7f2a222d51fd
+
